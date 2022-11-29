@@ -1,4 +1,6 @@
 const String currencySymbol = '৳';
+//own firebase server key...don't use, use ur own key
+const serverKey = 'AAAAuTMgoyE:APA91bHIM28PW4k9iPAwl8LAF0hNEBSVbQxg7lL3RNP2DbPp7UkAr9SdswQhf5XU6pEwF8ZWZ7Tl4nw0j51ZSsHB9JcznwY0hGE9xV_GBrgzr-tnxfSqTo0A_gUtinPugX-X5Ixc_qFs';
 const cities = [
   'Dhaka',
   'Chittagong',
